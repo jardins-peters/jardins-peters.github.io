@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Over ons on Jardins Peters</title>
-    <link>http://jardins-peters.github.io/about/</link>
+    <link>https://jardins-peters.github.io/about/</link>
     <description>Recent content in Over ons on Jardins Peters</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>nl-BE</language>
-    <lastBuildDate>Thu, 12 Jul 2018 18:19:33 +0600</lastBuildDate><atom:link href="http://jardins-peters.github.io/about/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 12 Jul 2018 18:19:33 +0600</lastBuildDate><atom:link href="https://jardins-peters.github.io/about/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
